@@ -2,8 +2,6 @@
 
 이 프로젝트는 eBPF XDP를 사용하여 네트워크 인터페이스에서 특정 포트로 들어오는 패킷을 차단(drop)하는 간단한 프로그램을 제공합니다.
 
-<div align="center">
-
 ## 개발자 소개
 
 |                                      최시훈                                       |
@@ -13,7 +11,6 @@
 [@fkdldkrhya](https://github.com/fkdldkrhya) <br/>
 한양대학교 ERICA 3학년<br/>
 
-</div>
 
 ## 사전 요구사항
 
