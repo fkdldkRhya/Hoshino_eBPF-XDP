@@ -4,10 +4,10 @@
 
 ## 개발자 소개
 <div align="center" text-align="center">
-|                                              최시훈                                              |
-| :----------------------------------------------------------------------------------------------: |
-|                  <img width="160px" src="https://github.com/fkdldkrhya.png" />                   |
-| [@fkdldkrhya](https://github.com/fkdldkrhya) <br> 한양대학교 ERICA 3학년   |
+|                                              최시훈                                               
+| :----------------------------------------------------------------------------------------------: 
+|                  <img width="160px" src="https://github.com/fkdldkrhya.png" />                   
+| [@fkdldkrhya](https://github.com/fkdldkrhya) <br> 한양대학교 ERICA 3학년                             
 </div>
 
 ## 사전 요구사항
